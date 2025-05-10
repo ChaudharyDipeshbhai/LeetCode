@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2633-minimum-cost-to-split-an-array) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2633-minimum-cost-to-split-an-array) |
 ## Linked List
 |  |
@@ -104,6 +106,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
