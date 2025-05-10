@@ -22,6 +22,7 @@
 | [0002-add-two-numbers](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0009-palindrome-number) |
+| [0223-rectangle-area](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0223-rectangle-area) |
 ## Recursion
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
