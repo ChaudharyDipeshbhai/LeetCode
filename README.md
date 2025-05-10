@@ -78,4 +78,8 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0223-rectangle-area) |
+## Database
+|  |
+| ------- |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
