@@ -12,6 +12,7 @@
 | [1022-unique-paths-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1022-unique-paths-iii) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2633-minimum-cost-to-split-an-array) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2633-minimum-cost-to-split-an-array) |
+| [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Linked List
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | [0006-zigzag-conversion](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0010-regular-expression-matching) |
+| [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,10 +75,12 @@
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -122,4 +127,8 @@
 |  |
 | ------- |
 | [1022-unique-paths-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1022-unique-paths-iii) |
+## Hash Function
+|  |
+| ------- |
+| [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 <!---LeetCode Topics End-->
