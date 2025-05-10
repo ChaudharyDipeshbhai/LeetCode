@@ -54,6 +54,7 @@
 | [0008-string-to-integer-atoi](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0010-regular-expression-matching) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1804-maximum-binary-string-after-change](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Sliding Window
 |  |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Greedy
+|  |
+| ------- |
+| [1804-maximum-binary-string-after-change](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 <!---LeetCode Topics End-->
