@@ -78,12 +78,14 @@
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0563-binary-tree-tilt](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0563-binary-tree-tilt](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [2103-find-all-groups-of-farmland](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Binary Search Tree
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0563-binary-tree-tilt](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
