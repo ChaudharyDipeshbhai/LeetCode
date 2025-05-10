@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Depth-First Search
 |  |
@@ -87,10 +88,12 @@
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
 | ------- |
@@ -133,4 +136,16 @@
 |  |
 | ------- |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
