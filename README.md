@@ -34,6 +34,7 @@
 | [0002-add-two-numbers](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0223-rectangle-area) |
 | [1013-fibonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -79,6 +80,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1013-fibonacci-number) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2633-minimum-cost-to-split-an-array) |
 ## Tree
@@ -177,5 +179,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
