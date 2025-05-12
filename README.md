@@ -55,6 +55,7 @@
 | [0006-zigzag-conversion](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1804-maximum-binary-string-after-change](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
@@ -138,6 +139,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1022-unique-paths-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1022-unique-paths-iii) |
 ## Matrix
 |  |
