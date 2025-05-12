@@ -37,6 +37,7 @@
 | [0070-climbing-stairs](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0223-rectangle-area) |
 | [1013-fibonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0010-regular-expression-matching](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2633-minimum-cost-to-split-an-array) |
 ## Tree
 |  |
@@ -181,4 +183,5 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
