@@ -24,6 +24,7 @@
 | [2633-minimum-cost-to-split-an-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2633-minimum-cost-to-split-an-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
 |  |
@@ -39,6 +40,7 @@
 | [0223-rectangle-area](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0223-rectangle-area) |
 | [1013-fibonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Recursion
 |  |
@@ -63,6 +65,7 @@
 | [1351-replace-the-substring-for-balanced-string](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1804-maximum-binary-string-after-change](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Sliding Window
 |  |
@@ -88,6 +91,7 @@
 | [1013-fibonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2633-minimum-cost-to-split-an-array) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Tree
 |  |
@@ -126,6 +130,7 @@
 |  |
 | ------- |
 | [2633-minimum-cost-to-split-an-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2633-minimum-cost-to-split-an-array) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Prefix Sum
 |  |
