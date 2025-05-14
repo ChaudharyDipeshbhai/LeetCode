@@ -10,6 +10,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1022-unique-paths-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1293-three-consecutive-odds](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [2103-find-all-groups-of-farmland](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2633-minimum-cost-to-split-an-array) |
