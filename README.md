@@ -12,6 +12,7 @@
 | [0898-transpose-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0898-transpose-matrix) |
 | [1022-unique-paths-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1293-three-consecutive-odds](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | ------- |
 | [0898-transpose-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0898-transpose-matrix) |
 | [1022-unique-paths-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 ## Hash Function
