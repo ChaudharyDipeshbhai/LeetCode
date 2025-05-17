@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0898-transpose-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0898-transpose-matrix) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Greedy
