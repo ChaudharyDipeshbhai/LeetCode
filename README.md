@@ -21,6 +21,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3321-type-of-triangle](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 ## Hash Table
@@ -49,6 +50,7 @@
 | [0223-rectangle-area](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0223-rectangle-area) |
 | [1013-fibonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [3321-type-of-triangle](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Recursion
@@ -204,6 +206,7 @@
 | [0075-sort-colors](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3321-type-of-triangle](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
