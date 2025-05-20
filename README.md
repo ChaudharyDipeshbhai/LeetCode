@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2633-minimum-cost-to-split-an-array) |
@@ -182,6 +184,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0861-flipping-an-image) |
