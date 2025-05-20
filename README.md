@@ -11,6 +11,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0777-toeplitz-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0898-transpose-matrix) |
 | [1022-unique-paths-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1022-unique-paths-iii) |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0777-toeplitz-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0898-transpose-matrix) |
 | [1022-unique-paths-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1022-unique-paths-iii) |
