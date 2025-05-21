@@ -14,5 +14,4 @@ class Solution:
                         matrix[i][k] = 0
                     for k in range(m):
                         matrix[k][j] = 0
-        return matrix  
-        
+        return matrix 
