@@ -29,6 +29,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3639-zero-array-transformation-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [3639-zero-array-transformation-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [3647-zero-array-transformation-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Data Stream
 |  |
 | ------- |
@@ -220,11 +223,13 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
 |  |
 | ------- |
 | [1804-maximum-binary-string-after-change](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3647-zero-array-transformation-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Memoization
 |  |
 | ------- |
