@@ -24,6 +24,7 @@
 | [2633-minimum-cost-to-split-an-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2633-minimum-cost-to-split-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3321-type-of-triangle) |
@@ -87,6 +88,7 @@
 | [1804-maximum-binary-string-after-change](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
