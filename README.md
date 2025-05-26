@@ -40,6 +40,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2633-minimum-cost-to-split-an-array) |
@@ -119,6 +120,7 @@
 | [0070-climbing-stairs](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2633-minimum-cost-to-split-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -162,6 +164,7 @@
 ## Counting
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2633-minimum-cost-to-split-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -187,6 +190,7 @@
 ## Graph
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Backtracking
 |  |
@@ -249,6 +253,7 @@
 | [0070-climbing-stairs](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Enumeration
 |  |
 | ------- |
@@ -259,4 +264,8 @@
 | [0566-reshape-the-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0898-transpose-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
