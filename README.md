@@ -58,6 +58,7 @@
 | [0002-add-two-numbers](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0223-rectangle-area) |
 | [1013-fibonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1013-fibonacci-number) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
