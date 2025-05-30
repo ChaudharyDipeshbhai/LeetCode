@@ -145,6 +145,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [2103-find-all-groups-of-farmland](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Search Tree
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Backtracking
 |  |
