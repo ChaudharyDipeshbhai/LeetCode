@@ -15,6 +15,7 @@
 | [0777-toeplitz-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0898-transpose-matrix) |
+| [0945-snakes-and-ladders](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1293-three-consecutive-odds](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -212,6 +213,7 @@
 | [0777-toeplitz-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0898-transpose-matrix) |
+| [0945-snakes-and-ladders](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -236,6 +238,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [2103-find-all-groups-of-farmland](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Sorting
