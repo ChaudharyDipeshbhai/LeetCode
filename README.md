@@ -43,6 +43,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -57,6 +58,7 @@
 | [0002-add-two-numbers](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
@@ -89,6 +91,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0861-flipping-an-image](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0861-flipping-an-image) |
 ## String
 |  |
