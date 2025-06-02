@@ -10,6 +10,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0777-toeplitz-matrix) |
@@ -257,6 +258,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0135-candy) |
 | [1804-maximum-binary-string-after-change](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
