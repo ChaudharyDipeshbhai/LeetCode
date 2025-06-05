@@ -106,6 +106,7 @@
 | [0008-string-to-integer-atoi](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1804-maximum-binary-string-after-change](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
