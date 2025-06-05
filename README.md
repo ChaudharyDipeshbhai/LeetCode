@@ -244,6 +244,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -304,4 +305,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0258-add-digits) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
