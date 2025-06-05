@@ -107,6 +107,7 @@
 | [0006-zigzag-conversion](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0020-valid-parentheses) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
@@ -308,6 +309,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
