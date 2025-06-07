@@ -50,6 +50,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2633-minimum-cost-to-split-an-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -117,6 +118,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3603-check-if-dfs-strings-are-palindromes](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3603-check-if-dfs-strings-are-palindromes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -252,6 +254,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Data Stream
 |  |
@@ -281,6 +284,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Memoization
 |  |
@@ -313,6 +317,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Queue
 |  |
 | ------- |
