@@ -250,6 +250,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -260,6 +261,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -323,4 +325,5 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0649-dota2-senate) |
+| [0969-number-of-recent-calls](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
