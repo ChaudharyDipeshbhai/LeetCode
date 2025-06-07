@@ -108,6 +108,7 @@
 | [0008-string-to-integer-atoi](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0020-valid-parentheses) |
+| [0649-dota2-senate](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0649-dota2-senate) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
@@ -275,6 +276,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0135-candy) |
+| [0649-dota2-senate](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0649-dota2-senate) |
 | [1804-maximum-binary-string-after-change](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -315,4 +317,5 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/ChaudharyDipeshbhai/LeetCode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
